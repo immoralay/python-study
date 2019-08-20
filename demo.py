@@ -1,0 +1,6 @@
+a = input("请输入姓名: ")
+b = input('请输入年龄: ')
+c = input("请输入性别: ")
+print("姓名: "+a)
+print("年龄: "+b)
+print("性别: "+c)
